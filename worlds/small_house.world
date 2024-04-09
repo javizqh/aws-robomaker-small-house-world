@@ -283,14 +283,6 @@
         </include>
         <pose frame=''>-0.556240 4.111241 0 0 -0 0</pose>
 	</model>
-
-	<model name='Door_01_001'>
-        <static>true</static>    
-        <include>
-            <uri>model://aws_robomaker_residential_Door_01</uri>
-        </include>
-        <pose frame=''>6.001449 -5.549002 0 0 -0 0</pose>
-	</model>
 	
 	<model name='Dumbbell_01_001'>
         <static>true</static>    
@@ -601,13 +593,6 @@
             <uri>model://aws_robomaker_residential_Tableware_01</uri>
         </include>
         <pose frame=''>7.15317 0.982767 0.817812 -0.001238 -0.000976 1.02476</pose>
-	</model>
-	<model name='Trash_01_001'>
-        <static>true</static>    
-        <include>
-            <uri>model://aws_robomaker_residential_Trash_01</uri>
-        </include>
-        <pose frame=''>2.360151 -0.796238 0.011 0 -0 0</pose>
 	</model>
     <model name='Trash_01_002'>
         <static>true</static>    
